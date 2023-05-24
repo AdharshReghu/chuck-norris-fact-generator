@@ -32,7 +32,7 @@ body{
     justify-content: space-between;
     max-width: 50%;
     max-height: 60%;
-    align-items: center;
+    align-items:center;
 }
 
 .joke{
@@ -49,8 +49,7 @@ body{
 .chuckImage{
     border-radius: 20px;
     background-color: goldenrod;
-
-    min-width: 90%;
+    max-width: 90%;
     max-height: 50%;
     display: flex;
     justify-content: center;
